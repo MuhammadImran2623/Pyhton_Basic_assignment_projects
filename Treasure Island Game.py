@@ -44,13 +44,6 @@ if lower_R_L == 'left':
      print("Game Over! there is a Beast in that room .")
   else :
     print("Oops! you choose to swim but the crocodiles like your flesh Game over!.....")
-  # doors3 =input("Which Door color you want to choose?")
-  # if doors3.lower() == 'yellow':
-  #    print('Congatulations you won the game and treasure too give party to your homies')
-  # elif doors3.lower() == 'red':
-  #    print("game over There is a dragon in the room you got burned by dragon Fire")
-  # else :
-  #   print("Game Over! there is a Beast in that room .")
   
 
 else:
